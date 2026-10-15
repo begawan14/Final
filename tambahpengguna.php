@@ -149,7 +149,7 @@
             <input name="username" class="inputuser" type="text" placeholder="Username" required />
             <input name="password" class="inputuser" type="password" placeholder="Password" required />
             <input name="alamat" class="inputuser" type="text" placeholder="Alamat" required />
-            <select name="jenis_kelamin" class="inputuser" id=""> 
+            <select name="jenis_kelamin" class="inputuser" required> 
                 <option value="">Pilih Jenis Kelamin</option>
                 <option value="Laki-Laki">Laki-Laki</option>
                 <option value="Perempuan">Perempuan</option>
